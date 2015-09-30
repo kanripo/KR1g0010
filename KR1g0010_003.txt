@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 四如講稿
-#+DATE: 2015-09-23 09:41:02
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:18:46.314313
+#+PROPERTY: ID KR1g0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1g0010_WYG_003-1a>¶
 欽定四庫全書¶
 　四如講稿卷三¶
@@ -362,4 +364,3 @@
 　¶
 　¶
 　四如講稿卷三¶
-
